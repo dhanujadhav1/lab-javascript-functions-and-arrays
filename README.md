@@ -72,7 +72,7 @@ Let's create a new function `add()` that calculates the sum for array filled wit
 You can use the following array to test your solution:
 
 ```javascript
-const mixedArr = [63, 122, 'audi', 61, true, 'volvo', '20', 'lamborghini', 38, 156];
+const mixedArr = [63, 122, 'audi', 61, true, 'volvo', '20', 'lamborghini', 38, 156];add()
 
 // should return: 463
 ```
